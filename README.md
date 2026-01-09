@@ -1,5 +1,5 @@
 # WinMPX 🚀
-> The high-performance MPX audio processing tool designed for efficiency and precision.
+> The high-performance MPX video downloader tool designed for efficiency and precision.
 
 [![Downloads](https://img.shields.io/github/downloads/WinMPX-Technologies/WinMPX/total?style=for-the-badge&color=green)](https://github.com/WinMPX-Technologies/WinMPX/releases)
 [![Version](https://img.shields.io/github/v/release/WinMPX-Technologies/WinMPX?style=for-the-badge)](https://github.com/WinMPX-Technologies/WinMPX/releases)
