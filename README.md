@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="social-card.jpg" alt="WinMPX Banner" width="100%">
+  <img src="social-card.jpg" alt="WinMPX Banner" width="50%">
   <br><br>
   <h1>WinMPX 🚀</h1>
   <p><b>High-Fidelity Video Downloader for Windows. 8K Ready. Zero Ads.</b></p>
 
   <a href="https://github.com/WinandsLabs/WinMPX-distribution/releases"><img src="https://img.shields.io/github/v/release/WinandsLabs/WinMPX-distribution?style=for-the-badge&color=blue&label=LATEST%20VERSION" alt="Latest Version"></a>
   <a href="https://winmpx.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwinmpx.com&style=for-the-badge&label=OFFICIAL%20WEBSITE" alt="Website Status"></a>
-  <img src="https://img.shields.io/badge/PRICE-FREE-green?style=for-the-badge" alt="Price: Free">
 </div>
 
 ---
@@ -24,7 +23,8 @@
 
 ## 📸 Interface
 
-![WinMPX Screenshot](https://winmpx.com/social-card.jpg)
+![WinMPX Screenshot]
+<img src="social-card.jpg" alt="WinMPX Banner" width="50%">
 *(The high-performance MPX video downloader tool designed for efficiency and precision.)*
 
 ---
