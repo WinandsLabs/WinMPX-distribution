@@ -23,8 +23,7 @@
 
 ## 📸 Interface
 
-![WinMPX Screenshot]
-<img src="social-card.jpg" alt="WinMPX Banner" width="50%">
+<img src="appscreen.png" alt="WinMPX Banner" width="50%">
 *(The high-performance MPX video downloader tool designed for efficiency and precision.)*
 
 ---
