@@ -11,8 +11,8 @@ We release patches for security vulnerabilities in the following versions:
 ## Reporting a Vulnerability
 If you discover a security vulnerability in this project, please help us by reporting it responsibly.
 
-- **Do not open a public issue.**
-- Instead, send an email to: [support.winmpx@gmail.com]  
+- **Open a public issue.**
+- Or send an email to: [support@winmpx.com]  
 - Include as much detail as possible (steps to reproduce, affected version, potential impact).
 
 We will:
