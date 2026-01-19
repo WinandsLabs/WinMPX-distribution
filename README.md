@@ -1,13 +1,13 @@
 # WinMPX 🚀
 > The high-performance MPX video downloader tool designed for efficiency and precision.
 
-[![Downloads](https://img.shields.io/github/downloads/WinandsLabs/WinMPX/total?style=for-the-badge&color=green)](https://github.com/WinandsLabs/WinMPX/releases)
-[![Version](https://img.shields.io/github/v/release/WinandsLabs/WinMPX?style=for-the-badge)](https://github.com/WinandsLabs/WinMPX/releases)
+[![Downloads](https://img.shields.io/github/downloads/WinandsLabs/WinMPX-distribution/total?style=for-the-badge&color=green)](https://github.com/WinandsLabs/WinMPX-distribution/releases)
+[![Version](https://img.shields.io/github/v/release/WinandsLabs/WinMPX-distribution?style=for-the-badge)](https://github.com/WinandsLabs/WinMPX-distribution/releases)
 
 ---
 
 ## 📥 Installation
-1. Visit the [Latest Release](https://github.com/WinandsLabs/WinMPX/releases/latest) page.
+1. Visit the [Latest Release](https://github.com/WinandsLabs/WinMPX-distribution/releases/latest) page.
 2. Download the Installer WinMPX_Setup_v2.10.exe and execute or:
 4. Download the **WinMPX_Portable_v2.10.zip** file.
 5. Extract the contents in a folder of your choice.
@@ -45,7 +45,7 @@ Winands Labs is committed to the continuous improvement of our tools:
 
 ## 💬 Feedback & Support
 We value user input to keep WinMPX at the forefront of the industry. For technical inquiries or feedback:
-* **GitHub Issues:** Open a ticket in our [Issues](https://github.com/WinandsLabs/WinMPX/issues) section.
+* **GitHub Issues:** Open a ticket in our [Issues](https://github.com/WinandsLabs/WinMPX-distribution/issues) section.
 * **Direct Support:** Contact our team at `support@winmpx.com`.
 
 ---
