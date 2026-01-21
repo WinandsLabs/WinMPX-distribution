@@ -14,8 +14,8 @@
 
 | Edition | Windows 10 / 11 | Status |
 | :--- | :---: | :---: |
-| **📦 Installer (Recommended)** | **[⬇️ Download WinMPX_Setup.exe](https://github.com/WinandsLabs/WinMPX-distribution/releases/latest/download/WinMPX_Setup_v2.10.exe)** | ✅ Stable |
-| **🎒 Portable (No Admin)** | [⬇️ Download Portable .zip](https://github.com/WinandsLabs/WinMPX-distribution/releases/latest/download/WinMPX_Portable_v2.10.zip) | ✅ Portable |
+| **📦 Installer (Recommended)** | **[⬇️ Download WinMPX_Setup.exe](https://github.com/WinandsLabs/WinMPX-distribution/releases/latest/download/WinMPX_Setup_v2.11.exe)** | ✅ Stable |
+| **🎒 Portable (No Admin)** | [⬇️ Download Portable .zip](https://github.com/WinandsLabs/WinMPX-distribution/releases/latest/download/WinMPX_Portable_v2.11.zip) | ✅ Portable |
 
 > **Note:** WinMPX is 100% Free and Clean. No Ads. No Spyware. No Registration.
 
