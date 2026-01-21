@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.11",
   "download_url": "https://github.com/WinandsLabs/WinMPX-distribution/releases/latest",
-  "changelog": "New Release v2.1.0."
+  "changelog": "Critical fix for Dark Theme and improved merging speed."
 }
